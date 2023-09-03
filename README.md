@@ -1,3 +1,3 @@
 # Lgbt-Downloader
-.bat Downloader Builder
+Builder
 Coded in Delphi
